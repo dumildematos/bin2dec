@@ -16,7 +16,7 @@ function Input(){
       if(arrBin[i] === 0)
         result += 0;
       if(arrBin[i] !== 1 && arrBin[i] !== 0 || isNaN(arrBin[i])){
-        result = 'Only binay numbers.';
+        result = 'Only binary numbers.';
         break;
       }
     }
