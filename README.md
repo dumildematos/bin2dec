@@ -34,3 +34,7 @@ constraints:
 - [x] ~User can enter a variable number of binary digits~
 
 ![screenshot](screenshot.png)
+
+
+
+Bin2Dec open [here](https://infallible-hoover-ca68d5.netlify.app)
