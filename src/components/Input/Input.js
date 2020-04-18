@@ -28,7 +28,7 @@ function Input(){
   }
   return (
     <div className="sm-box">
-      <p>Enter a Binary Number Please.</p>
+      <p>Enter a binary number please.</p>
       <input id="input"/> <br/>
       <div className="controls">
         <button onClick={conversor}>Convert</button>
