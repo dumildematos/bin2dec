@@ -1,0 +1,35 @@
+@font-face {
+  src: url('./../../assets/fonts/DS-DIGIB.TTF');
+  font-family: 'ds_digital';
+}
+input{
+  padding: 5px;
+  border: none;
+  background-color: rgb(18, 221, 109);
+  color: rgb(48, 47, 47);
+  font-size: 40pt;
+  text-align: center;
+  font-weight: bolder;
+  border-radius: 60px;
+  font-family: 'ds_digital';
+
+}
+.sm-box{
+  background-color: rgb(111, 0, 255);
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+}
+.controls{
+  display: flex;
+}
+.controls button{
+  border: none;
+  display: inline-block;
+  padding: 10px;
+  text-transform: uppercase;
+  margin: 2px;
+  width: 50%;
+  font-weight: bolder;
+  border-radius: 30px
+}
