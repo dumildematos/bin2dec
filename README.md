@@ -37,4 +37,4 @@ constraints:
 
 
 
-Bin2Dec open [here](https://infallible-hoover-ca68d5.netlify.app)
+Bin2Dec open [here](https://convertbinarytodecimal.netlify.app)
